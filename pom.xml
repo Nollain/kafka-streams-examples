@@ -268,7 +268,7 @@
                 <plugin>
                     <groupId>net.alchim31.maven</groupId>
                     <artifactId>scala-maven-plugin</artifactId>
-                    <version>3.2.1</version>
+                    <version>4.5.2</version>
                     <configuration>
                         <scalaCompatVersion>${kafka.scala.version}</scalaCompatVersion>
                         <scalaVersion>${scala.version}</scalaVersion>
@@ -321,7 +321,7 @@
             <plugin>
                 <groupId>net.alchim31.maven</groupId>
                 <artifactId>scala-maven-plugin</artifactId>
-                <version>3.2.1</version>
+                <version>4.5.2</version>
                 <configuration>
                     <args>
                         <!--
